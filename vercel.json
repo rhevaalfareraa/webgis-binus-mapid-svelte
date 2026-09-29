@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/suppliers/(.*)\\.mvt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/vnd.mapbox-vector-tile"
+        }
+      ]
+    }
+  ]
+}
