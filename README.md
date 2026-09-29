@@ -46,3 +46,4 @@ Open the local URL Vite prints (usually `http://127.0.0.1:5173/`).
 2. Click **Use MVT**.
 3. Pan the map. DevTools → Network shows small `.mvt` requests.
 4. Click a green point. Read supplier, plot area, and region.
+# webgis-binus-mapid-svelte
